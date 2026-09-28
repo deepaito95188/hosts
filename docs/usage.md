@@ -35,3 +35,4 @@ Notes and usage details for hosts.
 - clarify the setup steps
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
